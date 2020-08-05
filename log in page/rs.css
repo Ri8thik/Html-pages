@@ -1,0 +1,48 @@
+
+@import"https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+margin: 0;
+padding: 0;
+background: url(123.jpg)no-repeat ;
+background-size:cover;
+background-position:center;
+font-family: sans-serif;
+}  
+
+.input-box
+{
+width: 280px;
+height:280px;
+color: white;
+position: absolute;
+top: 15%;
+left: 70%;
+transform: translate(-1%,-1%);
+
+}
+.textbox{
+width: 100%;
+overflow: hidden;
+font-size: 18px;
+padding: 8px 0;
+margin: 8px 0;
+}
+.btn{
+width: 100%;
+background: none;
+border: 1px solid #4caf50;
+border-radius:20px;
+color: white;
+padding: 1px;
+font-size:10px;
+cursor: pointer;
+}
+.box{
+width: 80%;
+color:white;
+background:none;
+overflow: hidden;
+font-size: 18px;
+border-radius:50px;
+}
